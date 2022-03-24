@@ -1,0 +1,57 @@
+
+// MARKETPLACE //
+    -WINDOWS-
+        #1 - File -> Preferences -> plugins -> marketplace
+
+    -MAC-
+        #1 - Android Studio -> Preferences -> Plugins -> marketplace
+
+// DEBUGGER //
+    Click the 'bug' icon to the right of Play Button
+
+    WHY: Good for when the app closes without throwing an error!
+    Take this example: TODO("Some reason")
+        THIS WON'T THROW AN ERROR
+
+// Unit-Testing //
+    @Test - Annotation, build test
+
+    AssertEquals - IF 4 = 2 + 2
+        NOTE - IF NULL works too! Just type Assert and search for null
+
+    Do not forget to change UNIT testing to APP later next to Pixel Emulator (left of play button)
+
+// Code Tests - Work //
+
+    What's good to know?
+        - Interview Questions
+        - Code Interview Questions
+        - Intent, Manifest, XML, LifeCycle, ADB etc..
+        - https://www.interviewbit.com/android-interview-questions/
+
+// Return //
+
+    fun myTest(): String {
+        return "String"
+    }
+
+    Keep in mind: You need semicolon (:) to return
+
+// For-loop //
+
+    for (i in 0..10) {
+        SOUT
+    }
+
+
+// Constraints - Sizing ( Match / Wrap) //
+
+    WRAP - Wraps around the content
+    Parent - Takes size of parent and stretches
+
+// Widgets / Components //
+
+    Don't know what to do next? What to learn next?
+    Check the widgets/Components - And read about them and their functionality.
+
+//  //
